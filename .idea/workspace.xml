@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da8893e9-0fec-47e7-aa2f-f6806fca8f9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="27dFvCTck0rJepM55rtM03NOkIx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend_actual" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.server">
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="18TestPlatform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_testcase.Test_testcase.test_create" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="18TestPlatform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_testcase.Test_testcase.test_create&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_testcase.Test_testcase.test_delete" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="18TestPlatform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_testcase.Test_testcase.test_delete&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_testcase.Test_testcase.test_get" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="18TestPlatform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_testcase.Test_testcase.test_get&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_testcase.Test_testcase.test_update" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="18TestPlatform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_testcase.Test_testcase.test_update&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python tests.pytest for test_testcase.Test_testcase.test_get" />
+        <item itemvalue="Python tests.pytest for test_testcase.Test_testcase.test_update" />
+        <item itemvalue="Python tests.pytest for test_testcase.Test_testcase.test_create" />
+        <item itemvalue="Python tests.pytest for test_testcase.Test_testcase.test_delete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da8893e9-0fec-47e7-aa2f-f6806fca8f9f" name="Default Changelist" comment="" />
+      <created>1649642283824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649642283824</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="71" key="#Inspections" timestamp="1649668235065">
+      <screen x="0" y="23" width="1280" height="717" />
+    </state>
+    <state x="0" y="71" key="#Inspections/0.23.1280.717@0.23.1280.717" timestamp="1649668235065" />
+    <state x="104" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1649746316656">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="104" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.716@0.23.1280.716" timestamp="1649746316656" />
+    <state x="258" y="40" key="CommitChangelistDialog2" timestamp="1650438481735">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="258" y="40" key="CommitChangelistDialog2/0.23.1280.707@0.23.1280.707" timestamp="1650438481735" />
+    <state x="443" y="298" key="Github.CreateGistDialog" timestamp="1650438277363">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="443" y="298" key="Github.CreateGistDialog/0.23.1280.707@0.23.1280.707" timestamp="1650438277363" />
+    <state x="443" y="299" key="Github.CreateGistDialog/0.23.1280.709@0.23.1280.709" timestamp="1650435624853" />
+    <state x="491" y="275" width="298" height="258" key="Github.ShareDialog" timestamp="1650438391562">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="491" y="275" key="Github.ShareDialog/0.23.1280.707@0.23.1280.707" timestamp="1650438391562" />
+    <state x="491" y="276" width="298" height="258" key="Github.ShareDialog/0.23.1280.709@0.23.1280.709" timestamp="1650435519001" />
+    <state width="1259" height="297" key="GridCell.Tab.0.bottom" timestamp="1650435461996">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.bottom/0.23.1280.707@0.23.1280.707" timestamp="1650122368628" />
+    <state width="1259" height="297" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1650435461996" />
+    <state width="1259" height="105" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1650246605704" />
+    <state width="1259" height="122" key="GridCell.Tab.0.bottom/0.23.1280.714@0.23.1280.714" timestamp="1650269693012" />
+    <state width="1259" height="287" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1650362387429" />
+    <state width="1259" height="186" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1650271210492" />
+    <state width="1259" height="164" key="GridCell.Tab.0.bottom/0.23.1280.722@0.23.1280.722" timestamp="1650039328690" />
+    <state width="1259" height="229" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1649835275946" />
+    <state width="1259" height="297" key="GridCell.Tab.0.center" timestamp="1650435461996">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.center/0.23.1280.707@0.23.1280.707" timestamp="1650122368627" />
+    <state width="1259" height="297" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1650435461996" />
+    <state width="1259" height="105" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1650246605703" />
+    <state width="1259" height="122" key="GridCell.Tab.0.center/0.23.1280.714@0.23.1280.714" timestamp="1650269693011" />
+    <state width="1259" height="287" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1650362387428" />
+    <state width="1259" height="186" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1650271210491" />
+    <state width="1259" height="164" key="GridCell.Tab.0.center/0.23.1280.722@0.23.1280.722" timestamp="1650039328689" />
+    <state width="1259" height="229" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1649835275944" />
+    <state width="1259" height="297" key="GridCell.Tab.0.left" timestamp="1650435461996">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.left/0.23.1280.707@0.23.1280.707" timestamp="1650122368627" />
+    <state width="1259" height="297" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1650435461996" />
+    <state width="1259" height="105" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1650246605703" />
+    <state width="1259" height="122" key="GridCell.Tab.0.left/0.23.1280.714@0.23.1280.714" timestamp="1650269693010" />
+    <state width="1259" height="287" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1650362387428" />
+    <state width="1259" height="186" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1650271210488" />
+    <state width="1259" height="164" key="GridCell.Tab.0.left/0.23.1280.722@0.23.1280.722" timestamp="1650039328689" />
+    <state width="1259" height="229" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1649835275943" />
+    <state width="1259" height="297" key="GridCell.Tab.0.right" timestamp="1650435461996">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="164" key="GridCell.Tab.0.right/0.23.1280.707@0.23.1280.707" timestamp="1650122368628" />
+    <state width="1259" height="297" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1650435461996" />
+    <state width="1259" height="105" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1650246605704" />
+    <state width="1259" height="122" key="GridCell.Tab.0.right/0.23.1280.714@0.23.1280.714" timestamp="1650269693011" />
+    <state width="1259" height="287" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1650362387429" />
+    <state width="1259" height="186" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1650271210491" />
+    <state width="1259" height="164" key="GridCell.Tab.0.right/0.23.1280.722@0.23.1280.722" timestamp="1650039328690" />
+    <state width="1259" height="229" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1649835275946" />
+    <state x="0" y="23" width="997" height="707" key="SettingsEditor" timestamp="1650437859191">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="0" y="23" width="997" height="707" key="SettingsEditor/0.23.1280.707@0.23.1280.707" timestamp="1650437859191" />
+    <state x="0" y="23" width="997" height="712" key="SettingsEditor/0.23.1280.712@0.23.1280.712" timestamp="1650436229332" />
+    <state x="0" y="23" width="997" height="714" key="SettingsEditor/0.23.1280.714@0.23.1280.714" timestamp="1649688985614" />
+    <state x="0" y="23" width="997" height="717" key="SettingsEditor/0.23.1280.717@0.23.1280.717" timestamp="1649904375264" />
+    <state x="0" y="23" key="SettingsEditor/0.23.1280.722@0.23.1280.722" timestamp="1649832691906" />
+    <state x="240" y="116" key="Vcs.Push.Dialog.v2" timestamp="1650438312608">
+      <screen x="0" y="23" width="1280" height="707" />
+    </state>
+    <state x="240" y="116" key="Vcs.Push.Dialog.v2/0.23.1280.707@0.23.1280.707" timestamp="1650438312608" />
+    <state x="305" y="61" width="670" height="676" key="search.everywhere.popup" timestamp="1650269409858">
+      <screen x="0" y="23" width="1280" height="714" />
+    </state>
+    <state x="305" y="61" width="670" height="676" key="search.everywhere.popup/0.23.1280.714@0.23.1280.714" timestamp="1650269409858" />
+  </component>
+</project>

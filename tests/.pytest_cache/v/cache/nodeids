@@ -1,0 +1,7 @@
+[
+  "test_testcase.py::Test_testcase::test_create",
+  "test_testcase.py::Test_testcase::test_delete",
+  "test_testcase.py::Test_testcase::test_get",
+  "test_testcase.py::Test_testcase::test_update",
+  "test_testcase.py::test_get"
+]
