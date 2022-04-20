@@ -1,0 +1,117 @@
+[2022-04-18 18:02:58][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 18:02:58][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 18:02:58][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例006', 'remark': '备注006'}]
+[2022-04-18 18:03:09][INFO][testcase.py]/[line:80]/[delete] 接收到的参数 <===== {'id': 6}
+[2022-04-18 18:03:09][INFO][testcase.py]/[line:60]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-18 18:03:09][INFO][testcase_model.py]/[line:57]/[delete] 1
+[2022-04-18 18:04:15][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 18:04:15][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 18:04:15][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]
+[2022-04-18 22:20:45][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 22:20:45][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 22:20:45][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]
+[2022-04-18 22:20:55][INFO][testcase.py]/[line:55]/[post] 接收到的参数 <===== {'id': '6', 'case_title': '6', 'remark': '6'}
+[2022-04-18 22:20:55][INFO][testcase.py]/[line:39]/[create] 新增前查询的结果 <===== None
+[2022-04-18 22:20:55][INFO][testcase_model.py]/[line:35]/[create] 将要新增的内容为 <===== <TestcaseModel (transient 4502491088)>
+[2022-04-18 22:21:37][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 22:21:37][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 22:21:37][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '6', 'remark': '6'}]
+[2022-04-18 22:21:49][INFO][testcase.py]/[line:81]/[delete] 接收到的参数 <===== {'id': 6}
+[2022-04-18 22:21:49][INFO][testcase.py]/[line:60]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-18 22:21:49][INFO][testcase_model.py]/[line:57]/[delete] 1
+[2022-04-18 22:22:06][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 22:22:06][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 22:22:06][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]
+[2022-04-18 22:23:17][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-18 22:23:17][INFO][testcase.py]/[line:28]/[get] 接收到的参数 <===== None
+[2022-04-18 22:23:17][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]
+[2022-04-19 10:11:26][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]
+[2022-04-19 10:11:38][INFO][testcase.py]/[line:39]/[create] 新增前查询的结果 <===== None
+[2022-04-19 10:11:38][INFO][testcase_model.py]/[line:35]/[create] 将要新增的内容为 <===== <TestcaseModel (transient 4431269952)>
+[2022-04-19 10:11:46][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例006', 'remark': '备注006'}]
+[2022-04-19 10:12:29][INFO][testcase.py]/[line:53]/[update] 新增前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 10:12:29][INFO][testcase_model.py]/[line:46]/[update] 将要新增的内容为 <===== <TestcaseModel (transient 4413227216)>
+[2022-04-19 10:13:01][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例006', 'remark': '备注006'}]
+[2022-04-19 10:13:13][INFO][testcase.py]/[line:53]/[update] 新增前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 10:13:13][INFO][testcase_model.py]/[line:46]/[update] 将要新增的内容为 <===== <TestcaseModel (transient 4454379728)>
+[2022-04-19 10:34:41][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例006', 'remark': '备注006'}]
+[2022-04-19 10:35:04][INFO][testcase.py]/[line:53]/[update] 更新前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 10:35:04][INFO][testcase_model.py]/[line:49]/[update] 将要更新的内容为 <===== <TestcaseModel (transient 4478947584)>
+[2022-04-19 10:35:20][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例', 'remark': '备注'}]
+[2022-04-19 10:37:05][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例', 'remark': '备注'}]
+[2022-04-19 11:49:13][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 11:49:13][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 11:49:14][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例', 'remark': '备注'}]
+[2022-04-19 16:59:55][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 16:59:55][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 16:59:55][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例', 'remark': '备注'}]
+[2022-04-19 17:00:07][INFO][testcase.py]/[line:108]/[put] 更新用例接收到的参数 <===== {'id': 6, 'case_title': '测试用例06', 'remark': '备注06'}
+[2022-04-19 17:00:07][INFO][testcase.py]/[line:53]/[update] 更新前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:00:07][INFO][testcase_model.py]/[line:49]/[update] 将要更新的内容为 <===== <TestcaseModel (transient 4581237904)>
+[2022-04-19 17:00:18][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:00:18][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:00:18][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注06'}]
+[2022-04-19 17:00:30][INFO][testcase.py]/[line:108]/[put] 更新用例接收到的参数 <===== {'id': '5', 'case_title': '测试用例06', 'remark': '备注06'}
+[2022-04-19 17:00:30][INFO][testcase.py]/[line:53]/[update] 更新前查询的结果 <===== <TestcaseModel 5>
+[2022-04-19 17:00:30][INFO][testcase_model.py]/[line:49]/[update] 将要更新的内容为 <===== <TestcaseModel (transient 4579530016)>
+[2022-04-19 17:26:13][INFO][testcase.py]/[line:108]/[put] 更新用例接收到的参数 <===== {'id': 6, 'case_title': '测试用例06', 'remark': '备注06'}
+[2022-04-19 17:26:13][INFO][testcase.py]/[line:53]/[update] 更新前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:26:13][INFO][testcase_model.py]/[line:49]/[update] 将要更新的内容为 <===== <TestcaseModel (transient 4590056976)>
+[2022-04-19 17:26:18][INFO][testcase.py]/[line:108]/[put] 更新用例接收到的参数 <===== {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}
+[2022-04-19 17:26:18][INFO][testcase.py]/[line:53]/[update] 更新前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:26:18][INFO][testcase_model.py]/[line:49]/[update] 将要更新的内容为 <===== <TestcaseModel (transient 4579387520)>
+[2022-04-19 17:27:10][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:27:10][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:27:10][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:27:20][INFO][testcase.py]/[line:55]/[post] 新增用例接收到的参数 <===== {'id': '8', 'case_title': '8', 'remark': '8'}
+[2022-04-19 17:27:20][INFO][testcase.py]/[line:39]/[create] 新增前查询的结果 <===== None
+[2022-04-19 17:27:20][INFO][testcase_model.py]/[line:38]/[create] 将要新增的内容为 <===== <TestcaseModel (transient 4590076304)>
+[2022-04-19 17:29:41][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:29:41][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:29:41][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}, {'id': 8, 'case_title': '8', 'remark': '8'}]
+[2022-04-19 17:29:45][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 8}
+[2022-04-19 17:29:45][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 8>
+[2022-04-19 17:29:45][INFO][testcase_model.py]/[line:60]/[delete] 将要删除的内容为 <===== 1
+[2022-04-19 17:29:49][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:29:49][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:29:52][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:29:52][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:29:53][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:29:59][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:30:00][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:30:02][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:30:02][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:30:02][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:30:07][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:30:07][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:30:33][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:30:33][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:30:33][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:30:49][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:30:49][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:31:39][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:31:39][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:31:39][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:32:33][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:32:33][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:35:50][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:35:50][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:36:13][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 5}
+[2022-04-19 17:36:13][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 5>
+[2022-04-19 17:36:26][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:36:26][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:36:26][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:40:53][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:40:53][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:40:53][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:40:59][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:41:00][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:47:39][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 17:47:39][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 17:47:39][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}, {'id': 6, 'case_title': '测试用例06', 'remark': '备注07'}]
+[2022-04-19 17:47:42][INFO][testcase.py]/[line:82]/[delete] 删除用例接收到的参数 <===== {'id': 6}
+[2022-04-19 17:47:42][INFO][testcase.py]/[line:65]/[delete] 删除前查询的结果 <===== <TestcaseModel 6>
+[2022-04-19 17:47:42][INFO][testcase_model.py]/[line:60]/[delete] 将要删除的内容为 <===== {'id': 6}
+[2022-04-19 18:03:19][INFO][testcase.py]/[line:27]/[get] type(request.args) <===== <class 'werkzeug.datastructures.ImmutableMultiDict'>
+[2022-04-19 18:03:19][INFO][testcase.py]/[line:28]/[get] 查询用例接收到的参数 <===== None
+[2022-04-19 18:03:20][INFO][testcase.py]/[line:30]/[get] 要返回数据为<=====[{'id': 1, 'case_title': '测试用例001', 'remark': '测试用例001备注'}, {'id': 2, 'case_title': '测试用例002', 'remark': '测试用例002备注'}, {'id': 3, 'case_title': '测试用例003', 'remark': '测试用例003备注'}, {'id': 4, 'case_title': '测试用例004', 'remark': '测试用例004备注'}, {'id': 5, 'case_title': '测试用例005', 'remark': '测试用例005备注'}]

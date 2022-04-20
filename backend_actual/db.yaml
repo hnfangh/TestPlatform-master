@@ -1,0 +1,9 @@
+
+## 数据库的配置信息
+
+database:
+  username: root
+  password: 123456
+  serverip: 47.106.133.253
+  port: 3306
+  db: testplatform
