@@ -14,7 +14,7 @@ db = 'testplatform'
 
 app = Flask(__name__)
 api = Api(app)
-CORS(app, supports_credentials=True) # 解决前端后端跨域访问问题,允许用户跨源发出Cookie或经过身份验证的请求
+CORS(app, supports_credentials=False ) # 解决前端后端跨域访问问题,允许用户跨源发出Cookie或经过身份验证的请求
 
 app.config['SQLALCHEMY_DATABASE_URI'] = f'mysql+pymysql://{username}:{password}@{server}/{db}'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True # 解决FSADeprecationWarning异常
